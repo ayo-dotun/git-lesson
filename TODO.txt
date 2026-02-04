@@ -1,0 +1,7 @@
+Adds a TODO file to track upcoming tasks and features.
+Created my first repository (done)
+Add a file to my repository (Done)
+Check out the git history (Done)
+Hands-on exercise
+pulling from a remote source
+notes of differences between git, github and gitkraken
